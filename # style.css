@@ -2,17 +2,21 @@
     border-collapse: collapse;
 }
 
+
 .link {
     color: maroon;
     text-decoration: underline;
 }
 
 body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: white;
 
 }
 
-.wrapper{}
+.wrapper{
+    background: fuchsia;
+}
 
 .container{
     width: 1200px;
@@ -20,7 +24,7 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     /* Background content */
-    background-color: grey;
+    background: grey;
 }
 
 .sidebar{
