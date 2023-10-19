@@ -4,7 +4,7 @@
 
 .link {
     color: maroon;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 body{
@@ -24,6 +24,6 @@ body{
 }
 
 .sidebar{
-    
+
 }
 
