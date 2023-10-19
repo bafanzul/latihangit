@@ -7,4 +7,23 @@
     text-decoration: none;
 }
 
+body{
+    background-color: white;
+
+}
+
+.wrapper{}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* Background content */
+    background-color: grey;
+}
+
+.sidebar{
+    
+}
 
