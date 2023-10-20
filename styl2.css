@@ -1,11 +1,24 @@
 .wrapper {
-    background-color: aqua;
+    background: grey;
 }
 
 .container {
-    width: 1000%;
-    margin: auto;
-    padding-left: 50px;
-    padding-right: 50px;
-    background-color: rgb(178, 203, 142);
+    width: 1200px;
+    margin: auto; 
+    
+}
+
+.sidebar{
+    width: 400px;
+    height: 600px;
+    background: red;
+    float: left;
+
+}
+
+.content{
+    width: 800px;
+    height: 600px;
+    background: paleturquoise;
+    float: right;
 }
