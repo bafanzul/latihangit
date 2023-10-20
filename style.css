@@ -1,44 +1,19 @@
 #tabel-buah{
     border-collapse: collapse;
+    background-color: aqua;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  
 }
 
 
 .link {
-    color: blueviolet;
+    color: red;
     text-decoration: underline;
 }
 
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: white;
-
-}
-
-.wrapper{
-}
-
-.container{
-    width: 1000px;
-    margin: auto;
-    padding-left: 50px;
-    padding-right: 50px;
-
-    background-color: grey;
-}
-
-.sidebar{
-    width: 400px;
-    height: 600px;
-    float: left;
-}
-
-.content{
-    width: 800px;
-    height: 600px;
-    float: right;
-}
-
-.clear{
-    clear: both;
+    background-color: turquoise;
 
 }
