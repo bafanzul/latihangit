@@ -71,10 +71,9 @@ nav ul li a:hover {
 
 .container {
     width: 1200px;
-    margin: auto; 
+    margin:auto; 
     padding-right: 10px;
     padding-left: 10px;
-
     background-color: rgb(180, 243, 236);
 }
 
@@ -84,7 +83,7 @@ nav ul li a:hover {
 }
 
 .content{
-    width: 800px;
+    width: 850px;
     float: right;
 }
 
